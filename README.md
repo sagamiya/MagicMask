@@ -1,0 +1,2 @@
+# MagicMask
+A DoucWorks plugin
