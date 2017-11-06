@@ -250,3 +250,17 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/dwsdk805jpn/PLUGINSPI/INCLUDE/MPPLUGIN.H
+/dwsdk805jpn/XDWAPI/DLL/xdwapi.dll
+/dwsdk805jpn/XDWAPI/DLL/xdwapia.dll
+/dwsdk805jpn/XDWAPI/DLL/xdwapib.dll
+/dwsdk805jpn/XDWAPI/DLL/xdwxml.dll
+/dwsdk805jpn/XDWAPI/DLLX64/xdwapi.dll
+/dwsdk805jpn/XDWAPI/DLLX64/xdwapia.dll
+/dwsdk805jpn/XDWAPI/DLLX64/xdwapib.dll
+/dwsdk805jpn/XDWAPI/DLLX64/xdwxml.dll
+/dwsdk805jpn/XDWAPI/INCLUDE/xdw_api.h
+/dwsdk805jpn/XDWAPI/INCLUDE/xdw_xml.h
+/dwsdk805jpn/XDWAPI/INCLUDE/xdwapian.h
+/dwsdk805jpn/XDWAPI/LIB/xdwapi.lib
+/dwsdk805jpn/XDWAPI/LIBX64/xdwapi.lib
